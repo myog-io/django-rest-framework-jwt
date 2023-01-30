@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-__title__ = 'djangorestframework-jwt'
+__title__ = 'rest_framework_jwt'
 __version__ = '1.11.0'
 __author__ = 'José Padilla'
 __license__ = 'MIT'
